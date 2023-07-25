@@ -1,0 +1,15 @@
+E:\CodingProjects\OEMTestDanilo\OEMTestDanilo\bin\Debug\net6.0\OEMTestDanilo.exe
+E:\CodingProjects\OEMTestDanilo\OEMTestDanilo\bin\Debug\net6.0\OEMTestDanilo.deps.json
+E:\CodingProjects\OEMTestDanilo\OEMTestDanilo\bin\Debug\net6.0\OEMTestDanilo.runtimeconfig.json
+E:\CodingProjects\OEMTestDanilo\OEMTestDanilo\bin\Debug\net6.0\OEMTestDanilo.dll
+E:\CodingProjects\OEMTestDanilo\OEMTestDanilo\bin\Debug\net6.0\OEMTestDanilo.pdb
+E:\CodingProjects\OEMTestDanilo\OEMTestDanilo\obj\Debug\net6.0\OEMTestDanilo.csproj.AssemblyReference.cache
+E:\CodingProjects\OEMTestDanilo\OEMTestDanilo\obj\Debug\net6.0\OEMTestDanilo.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodingProjects\OEMTestDanilo\OEMTestDanilo\obj\Debug\net6.0\OEMTestDanilo.AssemblyInfoInputs.cache
+E:\CodingProjects\OEMTestDanilo\OEMTestDanilo\obj\Debug\net6.0\OEMTestDanilo.AssemblyInfo.cs
+E:\CodingProjects\OEMTestDanilo\OEMTestDanilo\obj\Debug\net6.0\OEMTestDanilo.csproj.CoreCompileInputs.cache
+E:\CodingProjects\OEMTestDanilo\OEMTestDanilo\obj\Debug\net6.0\OEMTestDanilo.dll
+E:\CodingProjects\OEMTestDanilo\OEMTestDanilo\obj\Debug\net6.0\refint\OEMTestDanilo.dll
+E:\CodingProjects\OEMTestDanilo\OEMTestDanilo\obj\Debug\net6.0\OEMTestDanilo.pdb
+E:\CodingProjects\OEMTestDanilo\OEMTestDanilo\obj\Debug\net6.0\OEMTestDanilo.genruntimeconfig.cache
+E:\CodingProjects\OEMTestDanilo\OEMTestDanilo\obj\Debug\net6.0\ref\OEMTestDanilo.dll
