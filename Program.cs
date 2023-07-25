@@ -25,9 +25,12 @@ class MainProgram
             Console.WriteLine("Computer played: " + computer.Move);
 
             Console.WriteLine("Winner: " + gameManager.Winner);
+
             int tempPlayerPoints = player.Points;
             int tempComputerPoints = computer.Points;
+
             gameManager.GivePointToWinner(gameManager.Winner, ref tempPlayerPoints, ref tempComputerPoints);
+            
             player.Points = tempPlayerPoints;
             computer.Points = tempComputerPoints;
 
