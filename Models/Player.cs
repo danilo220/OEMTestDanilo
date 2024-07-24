@@ -39,6 +39,10 @@ namespace OEMTestDanilo.Models
             {
                 move = MovePlayed.Scissors;
             }
+            else
+            {
+                GetMove();
+            }
         }
     }
 }
